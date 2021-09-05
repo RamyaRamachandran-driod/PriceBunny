@@ -1,8 +1,4 @@
-# PriceBunny - The expense tracker
+# PriceBunny - The expenses tracker
 
 
-Requirements:
-Python 3
-Modules:
-Tkinter
 
