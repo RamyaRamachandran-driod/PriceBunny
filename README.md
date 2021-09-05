@@ -2,8 +2,8 @@
 
 
 
-# Requirement:
-Python 3
+# System Requirement:
+Python version : 3.8 or more
 
 # Modules:
 Tkinter, 
