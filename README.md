@@ -2,19 +2,19 @@
 
 
 
-# Requirements
+# Requirement:
 Python 3
 
-# Modules
-Tkinter
-time
-os
-cv2
-plyer
-csv
-tkcalendar 
-datetime
-pandas
+# Modules:
+Tkinter, 
+time, 
+os, 
+cv2, 
+plyer, 
+csv, 
+tkcalendar,  
+datetime, 
+pandas, 
 notification
 
 
